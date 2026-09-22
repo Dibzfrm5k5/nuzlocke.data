@@ -1,0 +1,70 @@
+--move
+barbed-tackle|poison|45|The user rams into an opponent with the poisoned points on its body. This may also poison the target.
+comet-shower|cosmic|80|Comets raining down on the user's surroundings. It may also make the targets flinch.
+cosmic-ray|cosmic|95|A beam of concentrated cosmic energy is unleashed at the foe. It may cause the target to flinch.
+dry-needles|grass|18|The target is struck with a series of 2 to 5 needles from a cactus plant.
+faeng-rush|fairy|80|The user slams the target with a whimsical strike of the fangs. It may make the target flinch.
+focused-ram|psychic|100|The user centers their mind for a psy-charged headbutt. User takes recoil damage.
+nimbus-fist|water|35|A strike of condensed mist strikes the foe, lowering its accuracy.
+nostril-flare|fire|55|Before the opponent attacks, the user unleashes a quick flame from its nostrils.
+searing-slash|fire|90|The user rips through the foe with a hot blade. It may hit critically, and leave a burn.
+vice-grip|normal|55|The target is gripped and squeezed from both sides to inflict damage.
+
+--pokemon
+47,56,95,18,52,52|arbird|steel,normal
+,85,,,,|arbok|
+140,136,100,136,100,188|arkhaos|cosmic
+,40,30,,25,25|azurill|normal,rock
+70,92,65,80,55,98|basculin|water
+70,85,85,95,,90|blastoise|water,flying
+135,255,55,10,10,75|blissey|fighting,fairy
+68,80,71,60,71,50|brutoad|water,dark
+44,60,54,50,64,37|bulbasaur|grass,rock
+58,75,61,83,68,75|burnaram|fire
+63,65,50,27,50,65|calfpint|normal
+80,145,110,90,75,100|ceregal|bug,dragon
+76,75,75,114,80,114|charizard|fire,dragon
+,50,,62,,|charmander|fire,dragon
+,,,,,|charmeleon|fire,dragon
+65,,70,,80,|chimecho|
+55,,85,,85,|corsola|
+70,,30,,,|cryogonal|
+70,80,100,70,65,25|dragalis|bug,dragon
+70,113,122,99,65,81|dragoyle|rock,dragon
+,80,,,,|dugtrio|
+,65,,,,|farfetchd|
+65,112,55,50,50,110|fearow-2|dark,fighting
+45,65,65,60,45,45|gargon|rock,dragon
+150,100,120,100,120,90|giratina|ghost,dragon
+60,112,50,88,70,105|gorochu|electric,fire
+74,80,60,130,100,96|grasquatch|grass,psychic
+112,63,80,130,77,78|grimfowl|dark,flying
+,,40,56,36,40|hoothoot|dark,flying
+,,55,,75,|illumise|
+,80,65,67,78,45|ivysaur|grass,rock
+80,50,105,120,115,75|jollibird|ice,fairy
+55,75,45,45,45,60|kidfoot|normal
+60,85,70,53,65,60|kokipound|grass,fighting
+100,124,88,102,92,94|lukagon|fairy,dragon
+70,,,,,|lunatone|
+50,,,80,,|magcargo|
+40,80,55,40,65,|magnemite|grass,steel
+65,,,,,|mantine|
+,,,80,,60|masquerain|
+86,,77,99,70,|noctowl|dark,flying
+95,134,100,100,55,96|oozma|fire,rock
+80,90,82,113,85,87|psysteed|fire,psychic
+49,66,70,44,55,51|pumpkaboo|ghost,grass
+110,105,75,80,70,100|quezsparce|fairy,ground
+28,130,72,105,28,122|reaptide|water,ghost
+50,70,65,40,40,35|scalarva|bug,dragon
+52,40,70,55,57,31|shellder-2|water,steel
+80,83,123,83,110,46|skulkraken|water,steel
+74,130,100,80,60,96|snosquatch|ice,rock
+70,,,,,|solrock|
+75,60,40,130,105,125|sorcerice|ice,psychic
+40,70,25,26,31,70|spearow-2|dark,fighting
+,111,100,90,88,65|venusaur|grass,rock
+,,55,,75,|volbeat|
+,,,,,|wartortle|water,flying
+55,,,,,|woobat|
