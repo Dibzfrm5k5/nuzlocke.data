@@ -1,0 +1,72 @@
+Moonstone Path|goldeen,marill,tympole,palpitoad,masquerain,magikarp,lotad,basculin,lombre,clauncher,finneon,seaking,lumineon,rattata,pidgey,budew,hoppip,starly,ledyba,calfpint,surskit,hoothoot,cleffa,sentret,bunnelby,poliwag,farfetchd,stunky,clefairy,ludicolo,gyarados
+Merchant's Ridge|rattata,pidgey,budew,hoppip,wingull,ledyba,meowth,ralts,sentret,pikachu,farfetchd,glameow,hoothoot,stunky,kricketot,gastly
+Searidge Town|goldeen,marill,tympole,poliwhirl,masquerain,magikarp,poliwag,shellder-2,finneon,seaking,lumineon,dratini,rattata,pidgey,lillipup,skitty,wingull,pachirisu,jigglypuff,trubbish,meowth,ralts,pikachu,elekid,glameow,stunky,drifloon,basculin,dragonair,gyarados
+Stonedust Trail|rattata,nincada,nidoran-m,nidoran-f,buneary,ekans,bunnelby,sandshrew,arbird,deerling,poochyena,spearow-2
+--Stonedust Trail|teal1|rival|Teal
+Stonedust Peak|goldeen,marill,tympole,poliwhirl,masquerain,magikarp,wooper,corphish,finneon,seaking,lumineon,feebas,patrat,mankey,nidoran-m,nidoran-f,buneary,ekans,sandshrew,arbird,bonsly,rufflet,swablu,spearow-2,stunky,drifloon,crawdaunt,quagsire,reaptide,gyarados,milotic
+Stonedust Grove|goldeen,marill,tympole,poliwhirl,masquerain,magikarp,corphish,shellder-2,feebas,finneon,seaking,lumineon,patrat,cottonee,nidoran-m,nidoran-f,buneary,ekans,sandshrew,mienfoo,bonsly,machop,spearow-2,poochyena,drifloon,crawdaunt,reaptide,gyarados,milotic
+Trick House
+lvl 1
+lvl 2
+lvl 3
+lvl 4
+lvl 5
+Sabrinas Trick Room
+Kogas Trick Room
+Surges Trick Room
+Mortys Trick Room
+Echoridge Cave|zubat,geodude,whismur,machop,diglett,woobat,roggenrola,teddiursa,aron,onix,wynaut,sableye,smoochum,loudred
+Echorock Town
+--Echorock Town|geralt1|gym-leader|Geralt
+Hayfield Path|goldeen,marill,ducklett,poliwhirl,masquerain,magikarp,clauncher,buizel,basculin,finneon,seaking,floatzel,dratini,zigzagoon,ponyta,mareep,azurill,spinarak,petilil,skiddo,taillow,torchic,cottonee,poochyena,spearow-2,pumpkaboo,murkrow,illumise,volbeat,clawitzer,gyarados
+2nd Rival Encounter|goldeen,marill,ducklett,poliwhirl,masquerain,magikarp,clauncher,buizel,basculin,finneon,seaking,floatzel,dratini,zigzagoon,ponyta,mareep,azurill,spinarak,petilil,skiddo,taillow,torchic,cottonee,poochyena,spearow-2,pumpkaboo,murkrow,illumise,volbeat,clawitzer,gyarados
+--2nd Rival Encounter|teal2|rival|Teal
+Hayfield Plateu|goldeen,marill,ducklett,poliwhirl,masquerain,magikarp,clauncher,shellder,basculin,finneon,seaking,cloyster,dratini,zigzagoon,ponyta,mareep,azurill,spinarak,petilil,gulpin,skiddo,taillow,miltank,tauros,cottonee,sunkern,sunflora,poochyena,spearow-2,murkrow,spritzee,pumpkaboo,clawitzer,gyarados
+Pebbledust Cave|woobat,geodude,diglett,roggenrola,drilbur,dunsparce,clefairy,noibat,dugtrio,graveler,mawile,onix,excadrill
+Genisis Forest Q1|wurmple,exeggcute,magnemite,floette,pansage,roselia,deerling,stantler,venipede,beautifly,gloom,oddish,heracross,cascoon,phantump,dustox,zorua,trevenant,vivillon,ninjask,parasect,beedrill,butterfree,nuzleaf,whirlipede,scalarva,dragalis,kidfoot
+Genisis Forest Q2|wurmple,exeggcute,magnemite,floette,pansage,roselia,deerling,stantler,venipede,beautifly,gloom,oddish,heracross,cascoon,phantump,dustox,zorua,trevenant,vivillon,ninjask,parasect,beedrill,butterfree,nuzleaf,whirlipede,scalarva,dragalis,kidfoot
+Palkhan Trail|patrat,mankey,nidoran-m,nidoran-f,rhyhorn,ekans,sandshrew,arbok,watchog,bonsly,larvitar,spearow-2,houndour,vullaby,mightyena
+Ridgestone Cemetery|poochyena,nuzleaf,chingling,gastly,duskull,ekans,vulpix,vullaby,mightyena,chimecho,haunter,phantump,spoink,murkrow,floette,hoothoot,houndour,noctowl,houndoom
+Echorock Town
+Echorock Town
+--Echorock Town|howlett1|gym-leader|Howlett
+Echodrop Cave|zubat,geodude,machop,makuhita,mawile,graveler,machoke,tyrogue,golbat,sableye,hariyama,bagon,cubone,marowak
+Rolling Ridge|mankey,spearow,spoink,geodude,throh,sawk,pawniard,fearow,zangoose,primeape,graveler,houndour,gastly
+Rolling Trail
+Safari Zone
+Amber Trail
+Rival Battle
+--Rival Battle|teal3|rival|Teal
+Genisis Forest Q4|wurmple,exeggcute,magnemite,floette,pansage,roselia,deerling,stantler,venipede,beautifly,gloom,oddish,heracross,cascoon,phantump,dustox,zorua,trevenant,vivillon,ninjask,parasect,beedrill,butterfree,nuzleaf,whirlipede,scalarva,dragalis,kidfoot
+Genisis Forest Q3|wurmple,exeggcute,magnemite,floette,pansage,roselia,deerling,stantler,venipede,beautifly,gloom,oddish,heracross,cascoon,phantump,dustox,zorua,trevenant,vivillon,ninjask,parasect,beedrill,butterfree,nuzleaf,whirlipede,scalarva,dragalis,kidfoot
+Hazeport Suburb|zigzagoon,taillow,electrike,floette,swirlix,swablu,butterfree,linoone,ditto,mr-mime,smeargle,solosis,mime-jr,purrloin,sentret,klefki,gothita,furret,murkrow,zorua
+Hazeport Garden
+Hazeport Maintenance
+Hazeport Shop District
+Hazeport Academic District
+Hazeport Academic District
+Duneridge Gorge
+Dunestone Desert 1
+Dunestone Desert 2
+--Dunestone Desert|olivia1|gym-leader|Olivia
+Palkhan Heights|watchog,nidorino,nidorina,rhyhorn,nosepass,electabuzz,sandslash,absol,rufflet,larvitar,pupitar,raticate,fearow-2
+Koros Cave|geodude,golbat,roggenrola,elgyem,lunatone,boldore,kadabra,graveler,jynx,beldum,steelix,swinub,carbink,froslass,piloswine
+kOROS later|geodude,golbat,roggenrola,elgyem,lunatone,boldore,kadabra,graveler,jynx,beldum,steelix,swinub,carbink,froslass,piloswine
+Team Fate
+Haytide Cape|tentacool,chinchou,remoraid,carvanha,luvdisc,magikarp,horsea,krabby,corphish,binacle,seadra,gyarados,skrelp,inkay,clamperl,lanturn,crawdaunt,relicanth,seaking,dragalge,clauncher,gorebyss,huntail,clawitzer
+--Haytide Cape|chad1|gym-leader|Chad
+Tidecliff Cave|zubat,machop,slowpoke,machoke,dunsparce,mawile,shellos,nosepass,gastrodon,shuckle,slowbro,bagon,probopass
+Dunedrift Bay|tentacool,horsea,staryu,corsola,mantine,magikarp,krabby,shellder,corphish,seadra,gyarados,skrelp,inkay,clamperl,clauncher,crawdaunt,feebas,seaking,dragalge,starmie,clawitzer
+Frostridge Tunnel|meditite,swinub,bergmite,vanillite,sneasel,medicham,vanilluxe,golbat,cryogonal,piloswine,avalugg,jynx
+Diamondpeak Summit
+--Diamondpeak Summit|irene1|gym-leader|Irene
+KRONOS Temple|unown,baltoy,honedge,mawile,jynx,golett,claydol,sorcerice,gargon
+--KRONOS Temple|yu1|evil-team|Yu
+Kayos Temple|unown,baltoy,honedge,sigilyph,yamask,golett,claydol,cofagrigus,gargon
+Frostridge Cave|meditite,snorunt,bergmite,spheal,sneasel,medicham,jynx,glalie,cryogonal,sealeo,froslass
+Irondune Cave|graveler,golbat,roggenrola,slugma,numel,machoke,torkoal,golem,boldore,camerupt,magmar,gigalith,geodude,zubat,yamask,magby,trapinch,koffing,weezing,solrock,larvesta,carbink,magcargo,oozma,bronzor,psysteed,burnaram
+--Irondune Cave|lucy1|rival|Lucy
+--Irondune Cave|geralt2|gym-leader|Geralt
+ENDING
+--ENDING|yu2|evil-team|Yu
+--ENDING|thorn1|evil-team|Thorn
